@@ -1,0 +1,5 @@
+@import "../../style/btns/primary";
+
+.btn {
+  @extend %btn-primary;
+}

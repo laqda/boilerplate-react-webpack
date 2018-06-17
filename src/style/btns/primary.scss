@@ -1,0 +1,8 @@
+@import "../theme";
+@import "btns";
+
+%btn-primary {
+  @extend %btn;
+  color: white;
+  background-color: $color_primary;
+}
