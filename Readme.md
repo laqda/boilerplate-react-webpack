@@ -20,5 +20,5 @@ Make sure you have the latest Stable or LTS version of Node.js installed.
 
 ## Available Commands
 
-- `npm start` - start the dev server
-- `npm build` - create a production ready build in `dist` folder
+- `yarn start` - start the dev server
+- `yarn build` - create a production ready build in `dist` folder
