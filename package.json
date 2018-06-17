@@ -1,9 +1,9 @@
 {
   "name": "react-webpack",
   "version": "1.0.0",
-  "description": "",
-  "repository": "",
-  "author": "",
+  "description": "custom boilerplate",
+  "repository": "https://github.com/quentm74/boilerplate-react-webpack",
+  "author": "Quentin Michel",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-eslint": "^8.2.3",
